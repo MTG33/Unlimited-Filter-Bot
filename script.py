@@ -2,18 +2,17 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+ｈｅｌｌｏ ｍｙ ｎａｍｅ ｉｓ @MTG33 'S ｆｉｌｔｅｒ ｂｏｔ :)
 
-See <i>/help</i> for commands and more details.</b>
+ｓｅｅ <i>/help</i> ｆｏｔ ｃｏｍｍａｎｄｓ ａｎｄ ｍｏｒｅ ｄｅｔａｉｌｓ.</b>
 """
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<b> I am for @ANIMO_WORLD  :)</b>
 
 
-<b>Basic Commands;</b>
+<b>Basic Commands "FOR ADMIN" ;</b>
 
 /start - Check if I'm alive!
 /help - Command help
@@ -48,16 +47,16 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @MTG33</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>𝙼𝚈 𝙽𝙰𝙼𝙴 : 𝙵𝙸𝙻𝚃𝙴𝚁 𝙱𝙾𝚃</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>𝙾𝚆𝙽𝙴𝚁 :</b> @MTG33
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝚁 :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>𝙻𝙸𝙱𝚁𝙰𝚁𝚈 :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
 """
